@@ -56,7 +56,7 @@ if(selected == 'Stress'):
         ]])
         
 
-    st.success(RidingMower_predict)
+    st.success(Stress_predict)
 
 
 if(selected == 'RidingMower'):
