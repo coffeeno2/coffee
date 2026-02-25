@@ -20,7 +20,7 @@ with st.sidebar:
 
 
 if(selected == 'Stress'):
-    st.title('RidingMower Prediction')
+    st.title('Stress Prediction')
     
     #user input
     Age = st.text_input('Age')
